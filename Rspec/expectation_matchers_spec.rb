@@ -1,4 +1,10 @@
 describe 'Expectation Matchers' do
+
+  #other Rspec references 
+  #https://gist.github.com/tienyuan/2f281da1d02d601cb15b
+  #https://gist.github.com/kyletcarlson/6234923
+  #https://gist.github.com/them0nk/2166525
+  #https://gist.github.com/zhengjia/428105
   
   describe 'equivalence matchers' do
 
