@@ -1,4 +1,6 @@
 describe 'Doubles' do
+  #change a consistent
+  #stub_const('WorkspaceReportsController::FILES_REPORT_LIMIT', assets_count + 5)
 
   it "allows stubbing methods" do
     dbl = double("Chant")
